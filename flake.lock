@@ -115,11 +115,11 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1750959734,
-        "narHash": "sha256-xGgSqrs2mvs82YzqLZnvZqy2Zw8WFhlRXQwr79Gc4j4=",
+        "lastModified": 1751652238,
+        "narHash": "sha256-PEDrcNzwoTbKx7ptsJJQvEO0J40VC8FUMg4gCQ0HGBI=",
         "owner": "ravitemer",
         "repo": "mcp-hub",
-        "rev": "1925147953a4c85d9f2385c217fb6c37d0e73f42",
+        "rev": "5cdd5719c70d98e20e23ae4301338d897e862ec3",
         "type": "github"
       },
       "original": {
@@ -134,11 +134,11 @@
         "nixpkgs": "nixpkgs_2"
       },
       "locked": {
-        "lastModified": 1751202496,
-        "narHash": "sha256-Tq5N1kSaevWkVL1LxU9MQOwdqf2QTfEyGVJpO1W8pDo=",
+        "lastModified": 1751607217,
+        "narHash": "sha256-WhvNqwHRTQ59o1I9DWNxp9PueXRxFntmLrXAGIY7CkU=",
         "owner": "ravitemer",
         "repo": "mcphub.nvim",
-        "rev": "46986569fb1ac69d97ee48fe3b192450ab995e90",
+        "rev": "15d490149502a8fb523a148dd564d597d34c3eb4",
         "type": "github"
       },
       "original": {
@@ -181,11 +181,11 @@
     },
     "nixpkgs_3": {
       "locked": {
-        "lastModified": 1751382304,
-        "narHash": "sha256-p+UruOjULI5lV16FkBqkzqgFasLqfx0bihLBeFHiZAs=",
+        "lastModified": 1751625545,
+        "narHash": "sha256-4E7wWftF1ExK5ZEDzj41+9mVgxtuRV3wWCId7QAYMAU=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "d31a91c9b3bee464d054633d5f8b84e17a637862",
+        "rev": "c860cf0b3a0829f0f6cf344ca8de83a2bbfab428",
         "type": "github"
       },
       "original": {
